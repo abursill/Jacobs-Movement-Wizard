@@ -1,0 +1,45 @@
+instrument {
+    name = 'Jacobs Movement Wizard',
+    icon = 'indicators:MA',
+    overlay = false
+}
+
+first_period = input (25, "First EMA", input.integer, 1)
+second_period = input (100, "Second EMA", input.integer, 1)
+third_period = input (300, "Third EMA", input.integer, 1)
+
+input_group {
+    "First EMA",
+    first_ema_color = input { default = "#25A8FF", type = input.color },
+    fiftyema_width = input { default = 1, type = input.line_width },
+    first_ema_visible = input { default = true, type = input.plot_visibility }
+}
+input_group {
+    "Second EMA",
+    second_ema_color = input { default = "#FF5C46", type = input.color },
+    second_ema_width = input { default = 1, type = input.line_width },
+    second_ema_visible = input { default = true, type = input.plot_visibility }
+}
+
+input_group {
+    "Third EMA",
+    third_ema_color = input { default = "#FFEE23", type = input.color },
+    third_ema_width = input { default = 1, type = input.line_width },
+    third_ema_visible = input { default = true, type = input.plot_visibility }
+}
+
+first_ma = ema (close, first_period)
+second_ma = ema (close, second_period)
+third_ma = ema (close, third_period)
+
+if first_ema_visible then
+plot (first_ma, "First EMA", first_ema_color, first_ema_width)
+end
+
+if second_ema_visible then
+plot (second_ma, "Second EMA", second_ema_color, second_ema_width)
+end
+
+if third_ema_visible then
+plot (third_ma, "Third EMA", third_ema_color, third_ema_width)
+end

@@ -1,0 +1,73 @@
+Author: Adrian Bursill
+Website: https:sitespore.com
+Details: Indicator for detecting short term chnages in the market trend.
+Other Details: My website is currently under construcion.
+
+Please read all the information below. it is very important.
+
+Quadcode script for three moving averages.
+ 
+The default settings work well, but best used on 3 hour and 30 minute charts to detect solid changes in the current market trend.
+During testing found to work best with 2-3 minute options. With 1 minute options seems 70-30 that a reversal could occur and result in loss.
+
+Please be warned this indicator is not 100% guaranteed to make you money.
+
+So far this tool has only been tested while trading 1-3 minute options. I would not advise using it to predict a longer timeframe. 
+
+How to read this indicator with its default settings.
+
+300 EMA yellow line. Shows the longtern current direction of the trend.
+25 EMA blue line indicates bullish strength.
+100 EMA red line indicates weakness.
+
+Blue and red lines are above the yellow line the market is in a bullish upward trend. (Do NOT use this as an indication for any type of strong movement).
+
+Blue and red lines are below the yellow line the market is in a bearish downward trend. (Do NOT use this as an indication for any type of strong movement).
+
+#################################### 300 EMA Yellow line in slight downward movement.#################################################################
+
+When the blue line is above the red line the market is more bullish (an upward trend). (Do NOT use this as an indication for any type of strong movement).
+
+When the red line is above the blue line the market is more bearish (a downward trend). (Do NOT use this as an indication for any type of strong movement).
+
+When the blue line crosses strongly through the red line in an upward movement. It is a medium bullish indication for an upward trend, confirmation is recommended. 
+
+When the blue line crosses strongly through the red line in a downward movement, it is a stonger bearish indication for a downward trend, confirmation is recommended. 
+
+#################################### 300 EMA Yellow line in strong downward movement.#################################################################
+
+When the blue line is above the red line the market is more bullish (an upward trend). (Do NOT use this as an indication for any type of strong movement).
+
+When the red line is above the blue line the market is more bearish (a downward trend). (Do NOT use this as an indication for any type of strong movement).
+
+When the blue line crosses strongly through the red line in an upward movement. It is a medium bullish indication for an upward trend, confirmation is recommended. 
+
+When the blue line crosses strongly through the red line in a downward movement, it is a very stong bearish indication for a downward trend, confirmation is recommended.
+
+#################################### 300 EMA Yellow line in slight upward movement.#################################################################
+
+When the blue line is above the red line the market is more bullish (an upward trend). (Do NOT use this as an indication for any type of strong movement).
+
+When the red line is above the blue line the market is more bearish (a downward trend). (Do NOT use this as an indication for any type of strong movement).
+
+When the blue line crosses strongly through the red line in an upward movement. It is a stronger bullish indication for an upward trend, confirmation is recommended. 
+
+When the blue line crosses strongly through the red line in a downward movement, it is a medium bearish indication for a downward trend, confirmation is recommended
+
+#################################### 300 EMA Yellow line in strong upward movement.#################################################################
+
+When the blue line is above the red line the market is more bullish (an upward trend). (Do NOT use this as an indication for any type of strong movement).
+
+When the red line is above the blue line the market is more bearish (a downward trend). (Do NOT use this as an indication for any type of strong movement).
+
+When the blue line crosses strongly through the red line in an upward movement. It is a very strong bullish indication for an upward trend, confirmation is recommended. 
+
+When the blue line crosses strongly through the red line in a downward movement, it is a medium bearish indication for a downward trend, confirmation is recommended
+
+IMPORTANT:
+Please be aware that as soon as these lines cross there is often a very slight reversal in the opposite direction. So please make sure you wait to see if the slight reversal happens before placing any trade.
+
+Any strong crossover through the 300 EMA yellow line is an indication of complete trend reversal, but can also be am indication of the market testing a point of suppport ot resistance before reversing and continuing the current trend..
+
+
+ 
