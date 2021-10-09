@@ -16,9 +16,16 @@ So far this tool has only been tested while trading 1-3 minute options. I would 
 
 How to read this indicator with its default settings.
 
-300 EMA yellow line. Shows the longtern current direction of the trend.
+Defaul Settings:
 25 EMA blue line indicates bullish strength.
 100 EMA red line indicates weakness.
+300 EMA yellow line. Shows the longtern current direction of the trend.
+
+Additional Reccommended Settings:
+2 EMA blue line indicates bullish strength.
+7 EMA red line indicates weakness.
+300 EMA yellow line. Shows the longtern current direction of the trend.
+
 
 Blue and red lines are above the yellow line the market is in a bullish upward trend. (Do NOT use this as an indication for any type of strong movement).
 
