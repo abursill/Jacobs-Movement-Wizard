@@ -4,8 +4,8 @@ instrument {
     overlay = false
 }
 
-first_period = input (25, "First EMA", input.integer, 1)
-second_period = input (100, "Second EMA", input.integer, 1)
+first_period = input (2, "First EMA", input.integer, 1)
+second_period = input (7, "Second EMA", input.integer, 1)
 third_period = input (300, "Third EMA", input.integer, 1)
 
 input_group {
