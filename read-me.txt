@@ -21,7 +21,7 @@ Defaul Settings:
 7 EMA red line indicates weakness.
 300 EMA yellow line. Shows the longtern current direction of the trend.
 
-The 2,7,300 settings work well for short term changes, on a 30 and 15 minute chart but you need to make sure they have strong approaches to the crossover. Also best to use with fibonacci Lines.  
+The 2,7,300 settings work well for short term changes, on a 30, 15 amd 5 minute chart but you need to make sure they have strong approaches to the crossover. Also best to use with fibonacci Lines.  
 
 Additional Reccommended Settings: 
 25 EMA blue line indicates bullish strength.
