@@ -17,18 +17,19 @@ So far this tool has only been tested while trading 1-3 minute options. I would 
 How to read this indicator with its default settings.
 
 Defaul Settings:
+2 EMA blue line indicates bullish strength.
+7 EMA red line indicates weakness.
+300 EMA yellow line. Shows the longtern current direction of the trend.
+
+The 2,7,300 settings work well for short term changes, on a 30 and 15 minute chart but you need to make sure they have strong approaches to the crossover. Also best to use with fibonacci Lines.  
+
+Additional Reccommended Settings: 
 25 EMA blue line indicates bullish strength.
 100 EMA red line indicates weakness.
 300 EMA yellow line. Shows the longtern current direction of the trend.
 
 The 25,100,300 settings work well to detect strong movements, on a 3hour and 30 minute chart but you need to make sure they have strong approaches to the crossover. Also best to use with fibonacci Lines. (This is not recommended for use with the OTC market unless there is a high volume of trading and strong movements.) 
 
-Additional Reccommended Settings: 
-2 EMA blue line indicates bullish strength.
-7 EMA red line indicates weakness.
-300 EMA yellow line. Shows the longtern current direction of the trend.
-
-The 2,7,300 settings work well for short term changes, on a 30 and 15 minute chart but you need to make sure they have strong approaches to the crossover. Also best to use with fibonacci Lines.  
 
 I do not recommend using this tool on currency pairs, that are moving too slowly and have no solid upward and downward trends occuring.
 I also do not recommend for use when a market is moing too fast and has a choppy fast up and downward movements. Though I would never recommend trading in these conditions anyway.
