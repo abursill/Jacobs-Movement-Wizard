@@ -8,7 +8,7 @@ Please read all the information below. it is very important.
 Quadcode script for three moving averages.
  
 The default settings work well, but best used on 3 hour and 30 minute charts to detect solid changes in the current market trend.
-During testing found to work best with 2-3 minute options. With 1 minute options seems 70-30 that a reversal could occur and result in loss.
+During testing found to work best with 1-2 minute options. With 1 minute options seems 70-30 that a reversal could occur and result in loss.
 
 Please be warned this indicator is not 100% guaranteed to make you money.
 
