@@ -32,12 +32,7 @@ Additional Reccommended Settings:
 
 The 2,7,300 settings work well for short term changes, on a 30, 15 amd 5 minute chart but you need to make sure they have strong approaches to the crossover. Also best to use with fibonacci Lines. 
 
-Additional Strong1 Settings: 
-2 EMA blue line indicates bullish strength.
-50 EMA red line indicates weakness.
-200 EMA yellow line. Shows the longtern current direction of the trend.
 
-The 2,50,200 settings work well for the strongest changes, on a 30, 15 amd 5 minute chart but you need to make sure they have strong approaches to the crossover. Also best to use with fibonacci Lines. The blue crossing above or below the 200 is usally a super strong indicator, and the red crossing below the 200ema. The red crossing above tge 200ema is not a strong indicator.
 
 
 
